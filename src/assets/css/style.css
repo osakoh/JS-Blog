@@ -1,0 +1,10 @@
+.edit {
+    color: blue;
+}
+
+
+/* disable textarea resize */
+
+textarea#body {
+    resize: none;
+}
