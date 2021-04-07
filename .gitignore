@@ -3,5 +3,5 @@ build
 package-lock.json
 package.json
 webpack.config.js
-app.js
-http.js
+src/assets/app.js
+src/assets/http.js
