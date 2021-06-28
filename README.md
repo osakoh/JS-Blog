@@ -9,13 +9,21 @@ $ npm install
 ```
 
 ### Serve
-To serve in the browser  - Runs webpack-dev-server
+
+To serve in the browser - Runs webpack-dev-server
 
 ```sh
 $ npm start
 ```
 
+#### Run server and client concurrently
+
+```sh
+$ npm run dev
+```
+
 ### Build
+
 Compile and build
 
 ```sh
